@@ -39,11 +39,11 @@ Hospital-Weka-Analysis/
 ### 1. EM Clustering Summary
 ![Clustering Overview](outputs/IMG-20250706-WA0014.jpg)
 
-### 2. Gender Distribution
+### 2. Tablular Cluster 
 ![Gender Chart](outputs/IMG-20250706-WA0017.jpg)
 
-### 3. Fever Analysis Across Clusters
-![Fever Plot](outputs/IMG-20250706-WA0015.jpg)
+### 3. Jitter Visualizations
+![Jitter Visualization](outputs/IMG-20250706-WA0015.jpg)
 
 ### 4. Cough Comparison by Cluster
 ![Cough Analysis](outputs/IMG-20250706-WA0012.jpg)
