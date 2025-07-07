@@ -72,13 +72,13 @@ Hospital-Weka-Analysis/
 ### 12. Affected by fever
 ![ZeroR Summary](outputs/IMG_20250706_231100.jpg)
 
-### 13. Confusion Matrix & Accuracy
+### 13. Diagnosis Panel
 ![Confusion Matrix](outputs/IMG_20250706_231209.jpg)
 
-### 14. Diabetes-Diagnosis-Outcome Panel
+### 14. Blood Pressure
 ![Attribute Visual](outputs/IMG_20250706_231130.jpg)
 
-### 15. 
+### 15. Final Outcome
 ![Weka Summary View](outputs/IMG_20250706_231227.jpg)
 ---
 
