@@ -51,16 +51,16 @@ Hospital-Weka-Analysis/
 ### 5. Classify Data
 ![Blood Pressure](outputs/IMG-20250706-WA0013.jpg)
 
-### 6. Diabetes Attribute Distribution
+### 6. Classify Part 2
 ![Diabetes Panel](outputs/IMG-20250706-WA0016.jpg)
 
 ### 7. Final Weka Interface Snapshot
 ![Diagnosis Chart](outputs/1000071664-Pleasant-ImageEnhancer.jpg)
 
-### 8. Outcome Classification
+### 8. Age Histogram 
 ![Outcome Categories](outputs/IMG_20250706_231025.jpg)
 
-### 9. Attribute Plot Matrix
+### 9. Gender Graph
 ![Plot Matrix](outputs/IMG_20250706_231042.jpg)
 
 ### 10. SimpleKMeans Summary
