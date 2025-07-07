@@ -54,7 +54,7 @@ Hospital-Weka-Analysis/
 ### 6. Diabetes Attribute Distribution
 ![Diabetes Panel](outputs/IMG-20250706-WA0016.jpg)
 
-### 7. Diagnosis Breakdown
+### 7. Final Weka Interface Snapshot
 ![Diagnosis Chart](outputs/1000071664-Pleasant-ImageEnhancer.jpg)
 
 ### 8. Outcome Classification
@@ -78,7 +78,7 @@ Hospital-Weka-Analysis/
 ### 14. Diabetes-Diagnosis-Outcome Panel
 ![Attribute Visual](outputs/IMG_20250706_231130.jpg)
 
-### 15. Final Weka Interface Snapshot
+### 15. 
 ![Weka Summary View](outputs/IMG_20250706_231227.jpg)
 ---
 
