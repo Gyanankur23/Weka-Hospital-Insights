@@ -101,3 +101,17 @@ Released under the MIT License
 © 2025 by Gyanankur Baruah
 
 ---
+
+```bash
+cd Weka-Hospital-Insights
+```
+
+## 👨‍💻GitHub:
+
+https://github.com/Gyanankur23/Weka-Hospital-Insights.git  
+## Username:
+Gyanankur23  
+## Email: 
+gyanankurcricket20@gmail.com  
+
+---
