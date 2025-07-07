@@ -39,16 +39,16 @@ Hospital-Weka-Analysis/
 ### 1. EM Clustering Summary
 ![Clustering Overview](outputs/IMG-20250706-WA0014.jpg)
 
-### 2. Tablular Cluster 
+### 2. Tabular Cluster 
 ![Gender Chart](outputs/IMG-20250706-WA0017.jpg)
 
 ### 3. Jitter Visualizations
 ![Jitter Visualization](outputs/IMG-20250706-WA0015.jpg)
 
-### 4. Cough Comparison by Cluster
+### 4. Cluster Continuation
 ![Cough Analysis](outputs/IMG-20250706-WA0012.jpg)
 
-### 5. Blood Pressure Visualization
+### 5. Classify Data
 ![Blood Pressure](outputs/IMG-20250706-WA0013.jpg)
 
 ### 6. Diabetes Attribute Distribution
