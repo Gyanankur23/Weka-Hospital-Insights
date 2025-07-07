@@ -63,13 +63,13 @@ Hospital-Weka-Analysis/
 ### 9. Gender Graph
 ![Plot Matrix](outputs/IMG_20250706_231042.jpg)
 
-### 10. SimpleKMeans Summary
+### 10. Affected by Cough 
 ![SimpleKMeans Model](outputs/IMG_20250706_231115.jpg)
 
-### 11. KMeans Performance Details
+### 11. Diabetes Patients 
 ![KMeans Stats](outputs/IMG_20250706_231152.jpg)
 
-### 12. ZeroR Model Summary
+### 12. Affected by fever
 ![ZeroR Summary](outputs/IMG_20250706_231100.jpg)
 
 ### 13. Confusion Matrix & Accuracy
